@@ -198,9 +198,7 @@ public class MainActivity extends Activity implements SensorEventListener {
     /**
      * Ask if someone is falling ?
      *
-     * Return 1 = no
-     * Return 2 = yes
-     * Return 0 = no answer
+     *
      */
     int fallDetected()
     {
